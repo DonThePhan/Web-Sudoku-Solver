@@ -39,6 +39,7 @@ body {
 .buttons {
     display: inline-block;
     margin: 1% 0;
+    margin-left: 30px;
     vertical-align: top;
 }
 
@@ -60,7 +61,7 @@ body {
     color: #377c07;
 }
 
-@media (max-width: 950px){
+@media (max-width: 1000px){
     h1 {
         font-size: 12vw;
     }
@@ -73,12 +74,17 @@ body {
         font-size: 5.4vw;
     }
 
+    .buttons {
+        margin-left: 0;
+    }
+
     .btn {
         width: 73vw;
         font-size: 2.5rem;
         text-align: center;
         padding: auto;
     }
+
 }
 
 @media (max-width: 500px){
