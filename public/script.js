@@ -194,9 +194,10 @@ BGMusic.volume = .5
 buttonBGMusic.addEventListener('click', function() {
 	if (BGMusic.paused) {
 		BGMusic.play();
+        buttonBGMusic.innerHTML = '<i class="fas fa-volume-up"></i>'
 	} else {
 		BGMusic.pause();
-		console.log('should pause');
+        buttonBGMusic.innerHTML = '<i class="fas fa-volume-mute"></i>'
     }
 });
 
