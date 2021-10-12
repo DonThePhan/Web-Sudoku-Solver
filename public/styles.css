@@ -1,0 +1,100 @@
+@font-face {
+	/* https://www.fontspace.com/ */
+	font-family: AssassinNinja;
+	src: url(AssassinNinja.ttf);
+}
+
+* {
+	font-family: 'AssassinNinja';
+}
+
+h1 {
+	font-size: 5rem;
+}
+
+body {
+	background-image: url('images/bg.jpg');
+}
+
+.container-fluid {
+	padding: 100px;
+}
+
+.btn {
+	font-size: 2.5rem;
+	width: 250px;
+	display: block;
+	text-align: left;
+	padding-left: 30px;
+}
+
+.btn-volume {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	border: none;
+}
+
+.btn-outline-dark {
+	color: black;
+}
+
+.btn-outline-dark:hover {
+	background-color: black;
+}
+
+.buttons {
+	display: inline-block;
+	margin: 1% 0;
+	margin-left: 30px;
+	vertical-align: top;
+}
+
+.matrix {
+	vertical-align: top;
+	margin: 1% 0;
+	display: inline-block;
+}
+.matrix input {
+	font-size: 2.25rem;
+	height: 1.5em;
+	width: 1.5em;
+	text-align: center;
+	border: 1px #e6cb93 solid;
+	box-sizing: border-box;
+}
+
+.blank {
+	color: #377c07;
+}
+
+@media (max-width: 1000px) {
+	h1 {
+		font-size: 12vw;
+	}
+
+	.container-fluid {
+		padding: 12%;
+	}
+
+	.matrix input {
+		font-size: 5.4vw;
+	}
+
+	.buttons {
+		margin-left: 0;
+	}
+
+	.btn {
+		width: 73vw;
+		font-size: 2.5rem;
+		text-align: center;
+		padding: auto;
+	}
+}
+
+@media (max-width: 500px) {
+	.btn {
+		font-size: 8.5vw;
+	}
+}
