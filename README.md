@@ -1,10 +1,10 @@
 # Web-Sudoku-Solver
 
 ### APP LINK:
-https://web-sudoku-solver.web.app/
+https://web-sudoku-dc2fd.web.app/
 
 ### VIDEO DEMO:
-![demo](https://user-images.githubusercontent.com/74743983/117172906-40e12d80-ad9a-11eb-820d-2f14ac9bbc97.gif)
+https://user-images.githubusercontent.com/74743983/137061754-6aac2e25-3e8d-4a26-be40-213c5404ef7c.mp4
 
 ### DESCRIPTION:
 Solves Sudoku Problems from user inputs using Recursion.
