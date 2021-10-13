@@ -1,7 +1,7 @@
 # Web-Sudoku-Solver
 
 ### APP LINK:
-https://web-sudoku-dc2fd.web.app/
+https://web-sudoku-solver-13520.web.app
 
 ### VIDEO DEMO:
 https://user-images.githubusercontent.com/74743983/137061754-6aac2e25-3e8d-4a26-be40-213c5404ef7c.mp4
