@@ -163,7 +163,7 @@ solve.addEventListener('click', function() {
 // create Solve Button DOM
 var clear = document.querySelector('.clear');
 clear.addEventListener('click', function() {
-	console.log('clearing');
+    playAudio('solved')
 	for (y = 0; y < 9; y++) {
 		for (x = 0; x < 9; x++) {
 			coordMatrix[y][x].value = '';
