@@ -26,3 +26,6 @@ Sounds Effects
 #### IMAGES
 - Sakura Petals - https://medibang.com/picture/zo2010100225105510003302024/
 - Background Image - https://wallpaperaccess.com/papyrus-paper
+
+#### FONT
+- Assassin Ninja - https://www.dafont.com/aassassinninja.font
