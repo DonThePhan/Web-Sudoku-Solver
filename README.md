@@ -11,7 +11,7 @@ Solves Sudoku Problems from user inputs using Recursion.
 Because why spend hours trying to solve it like a human when you can get technology to just try every possible combination in under a second?
 
 #### Technologies/Tools
-- Front-End, jQuery, JavaScript, Bootstrap, DOM Manipulation, recursion
+- Responsive, Front-End, jQuery, JavaScript, Bootstrap, DOM Manipulation, Recursion
 
 ### SOURCES:
 
